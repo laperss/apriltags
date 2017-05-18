@@ -2,6 +2,7 @@
 <package>
   <name>apriltags</name>
   <version>1.0</version>
+  <license>BSD</license>
   <description>A catkin version of the C++ apriltags library</description>
   <author>Michael Kaess</author>
   <buildtool_depend>catkin</buildtool_depend>
