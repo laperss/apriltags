@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>apriltags</name>
-  <version>1.0</version>
+  <version>1.0.0</version>
   <license>BSD</license>
   <maintainer email="email@email.com">None</maintainer>
   <description>A catkin version of the C++ apriltags library</description>
