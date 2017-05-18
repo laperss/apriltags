@@ -3,7 +3,7 @@
   <name>apriltags</name>
   <version>1.0</version>
   <license>BSD</license>
-  <maintainer email="">None</maintainer>
+  <maintainer email="email@email.com">None</maintainer>
   <description>A catkin version of the C++ apriltags library</description>
   <author>Michael Kaess</author>
   <buildtool_depend>catkin</buildtool_depend>
